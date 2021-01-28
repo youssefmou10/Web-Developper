@@ -433,6 +433,29 @@ i{
 		font-size: 0.80rem;
 	};
 /*---------------Contact Us End-------------------------------------*/
+/*---------------News-letters Start-------------------------------------*/
+.newsletters{
+	width: 100%;
+	height: auto ;
+	margin: 80px auto ;
+}
+.news-input
+{
+	border-radius: 100px 0px 0px 100px !important;
+	min-width: 150px;
+	min-width: 45px;
+
+}
+.input-group-text
+{
+	color: #fff!important;
+	background-color: #5bc0de!important;
+	border-radius: 0 100px 100px 0!important;
+	min-width: 130px;
+	min-height: 45px;
+}
+/*---------------News-leetters End-------------------------------------*/
+
 
 
 
